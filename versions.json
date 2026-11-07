@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "latestStable": "0.5.5",
+  "versions": [
+    {
+      "version": "0.5.5",
+      "releasedAt": "2026-10-31",
+      "minecraft": "1.16.1",
+      "loader": "Fabric",
+      "downloadPage": "https://boardraid.cn/download",
+      "manifest": "https://boardraid.cn/version.json",
+      "notes": "notes/0.5.5.md"
+    }
+  ]
+}
