@@ -1,15 +1,381 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "latestStable": "0.5.5",
   "versions": [
     {
+      "version": "0.2.0",
+      "filename": "boardraid-0.2.0.jar",
+      "size": 2665267,
+      "sha256": "d66534e01e6b903592089ef5bebd1f2460c0bf7412178df7d043e21576a56748",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.2.0",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.2.0/boardraid-0.2.0.jar"
+    },
+    {
+      "version": "0.2.1",
+      "filename": "boardraid-0.2.1.jar",
+      "size": 2665254,
+      "sha256": "58a3f84277ae53aca4a858168e8021c376d5bc31535aa56889fc7a569db3fb65",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.2.1",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.2.1/boardraid-0.2.1.jar"
+    },
+    {
+      "version": "0.2.2",
+      "filename": "boardraid-0.2.2.jar",
+      "size": 2772709,
+      "sha256": "0b0c5b513c3e26b9777da8e50aef019ad6681612a947c4b19ee6e97f392dd204",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.2.2",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.2.2/boardraid-0.2.2.jar"
+    },
+    {
+      "version": "0.2.3",
+      "filename": "boardraid-0.2.3.jar",
+      "size": 2741617,
+      "sha256": "72c478e860a04905f428d836f3b25bc38052037214ddb23ffe9481c2ffbec99f",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.2.3",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.2.3/boardraid-0.2.3.jar"
+    },
+    {
+      "version": "0.2.4",
+      "filename": "boardraid-0.2.4.jar",
+      "size": 2747781,
+      "sha256": "939395392ee6b417b0a12be0995da09f569f74ae1f65aa328e328f5730fffe13",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.2.4",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.2.4/boardraid-0.2.4.jar"
+    },
+    {
+      "version": "0.2.5",
+      "filename": "boardraid-0.2.5.jar",
+      "size": 2886035,
+      "sha256": "6ea5437d8a071fad130330d0b960e550235eb61eca081c7158f748833b64ea39",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.2.5",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.2.5/boardraid-0.2.5.jar"
+    },
+    {
+      "version": "0.2.6",
+      "filename": "boardraid-0.2.6.jar",
+      "size": 2886286,
+      "sha256": "1fd1b10f64dc938111d97278d93b5578c104af9096c6f37ca6535af7de0355ec",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.2.6",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.2.6/boardraid-0.2.6.jar"
+    },
+    {
+      "version": "0.2.7",
+      "filename": "boardraid-0.2.7.jar",
+      "size": 2890780,
+      "sha256": "2dfe0f99bb2fa0a31a7878a355ed2c83059da38d7ef3aa477e1a8df1bdfee095",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.2.7",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.2.7/boardraid-0.2.7.jar"
+    },
+    {
+      "version": "0.2.8",
+      "filename": "boardraid-0.2.8.jar",
+      "size": 2899116,
+      "sha256": "9df765c2f117ba756bdf5afae60a88602643cccf77af17dc200ef510247e8cc2",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.2.8",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.2.8/boardraid-0.2.8.jar"
+    },
+    {
+      "version": "0.2.9",
+      "filename": "boardraid-0.2.9.jar",
+      "size": 2787443,
+      "sha256": "93db2cfe2780c931d638ef67496e6c1a0c3224802e03aef753286a437b778833",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.2.9",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.2.9/boardraid-0.2.9.jar"
+    },
+    {
+      "version": "0.2.10",
+      "filename": "boardraid-0.2.10.jar",
+      "size": 2904644,
+      "sha256": "5491d9c3e1bda2c6f0314686e1ea086a95a626e73566a79e0bc9c1a187112f9d",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.2.10",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.2.10/boardraid-0.2.10.jar"
+    },
+    {
+      "version": "0.2.11",
+      "filename": "boardraid-0.2.11.jar",
+      "size": 2908258,
+      "sha256": "f31fd69db89933e51b3ab27b8fa252af45dfeb499783a5da885071fe08caf3a7",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.2.11",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.2.11/boardraid-0.2.11.jar"
+    },
+    {
+      "version": "0.2.12",
+      "filename": "boardraid-0.2.12.jar",
+      "size": 2941878,
+      "sha256": "71c43d68ed375164c874e854f2d9793a20975db5c3af4898d378eba7ab363ef7",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.2.12",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.2.12/boardraid-0.2.12.jar"
+    },
+    {
+      "version": "0.2.13",
+      "filename": "boardraid-0.2.13.jar",
+      "size": 2942158,
+      "sha256": "388b50fa589ece936d3fab227319f42539caf0f5e226e98510341e6b383d094c",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.2.13",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.2.13/boardraid-0.2.13.jar"
+    },
+    {
+      "version": "0.2.14",
+      "filename": "boardraid-0.2.14.jar",
+      "size": 3124362,
+      "sha256": "d76da516bf3abf491c58591000cebc0d5fbd2657b6ab160fcadce84fde2d63be",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.2.14",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.2.14/boardraid-0.2.14.jar"
+    },
+    {
+      "version": "0.3.0",
+      "filename": "boardraid-0.3.0.jar",
+      "size": 3168586,
+      "sha256": "bb955713a4a09b12e95001473cba53b08633ac8170cbf7c9cf74ef821c518781",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.3.0",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.3.0/boardraid-0.3.0.jar"
+    },
+    {
+      "version": "0.3.1",
+      "filename": "boardraid-0.3.1.jar",
+      "size": 3168690,
+      "sha256": "388030e03e5b30e24f37180cee248e5dddb58314f4eda27ab7bc6cd7d3b36c20",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.3.1",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.3.1/boardraid-0.3.1.jar"
+    },
+    {
+      "version": "0.3.2",
+      "filename": "boardraid-0.3.2.jar",
+      "size": 3169330,
+      "sha256": "462e4bfa66de0f37011e4e89023f13ba02839cd977a8ee31ea891506dce7721f",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.3.2",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.3.2/boardraid-0.3.2.jar"
+    },
+    {
+      "version": "0.3.3",
+      "filename": "boardraid-0.3.3.jar",
+      "size": 3169361,
+      "sha256": "fa2d83882cbbea7ddcb5b5a8561c298748ebcdcbac09204a16b449f65c785322",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.3.3",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.3.3/boardraid-0.3.3.jar"
+    },
+    {
+      "version": "0.3.4",
+      "filename": "boardraid-0.3.4.jar",
+      "size": 3164067,
+      "sha256": "2416ee0f91210a1be5a24062dca590d67f453fb81a695b0eefc06bcad4cc0d00",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.3.4",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.3.4/boardraid-0.3.4.jar"
+    },
+    {
+      "version": "0.3.5",
+      "filename": "boardraid-0.3.5.jar",
+      "size": 3166498,
+      "sha256": "232a19f7ad1d509980fb0c93f2e41a3b7a35822d77f6c7431e462d37514d0428",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.3.5",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.3.5/boardraid-0.3.5.jar"
+    },
+    {
+      "version": "0.3.6",
+      "filename": "boardraid-0.3.6.jar",
+      "size": 3166624,
+      "sha256": "36753e7f90a6bce0c932e59aaf656fa04c2f366ea7316ad646481195505b2fad",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.3.6",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.3.6/boardraid-0.3.6.jar"
+    },
+    {
+      "version": "0.3.7",
+      "filename": "boardraid-0.3.7.jar",
+      "size": 3168406,
+      "sha256": "b1669e55939625aafdc7c5be1808ee9c3dd4a76d77b8a63e02fc2bbb9569d25d",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.3.7",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.3.7/boardraid-0.3.7.jar"
+    },
+    {
+      "version": "0.3.8",
+      "filename": "boardraid-0.3.8.jar",
+      "size": 3184773,
+      "sha256": "c48120c83584914f97a25edfd00463a01b5f5dc7c43ed34856014d4629e50e4e",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.3.8",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.3.8/boardraid-0.3.8.jar"
+    },
+    {
+      "version": "0.3.9",
+      "filename": "boardraid-0.3.9.jar",
+      "size": 3183964,
+      "sha256": "0b5fbfc8262319971a68e333439612aaac2bf3ce174e3808b26ebad5dcd4715e",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.3.9",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.3.9/boardraid-0.3.9.jar"
+    },
+    {
+      "version": "0.3.10",
+      "filename": "boardraid-0.3.10.jar",
+      "size": 3190030,
+      "sha256": "a12fd25bcc519f552cf9c8f3167b306f97a3bbaa5fbf3dd0dea481636300d872",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.3.10",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.3.10/boardraid-0.3.10.jar"
+    },
+    {
+      "version": "0.4.0",
+      "filename": "boardraid-0.4.0.jar",
+      "size": 3216419,
+      "sha256": "af713f5e8ba5583723852a5494716f0bd826fa054f76f7ad8d97ac2ae5437012",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.4.0",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.4.0/boardraid-0.4.0.jar"
+    },
+    {
+      "version": "0.4.1",
+      "filename": "boardraid-0.4.1.jar",
+      "size": 3215337,
+      "sha256": "ce7746947ecea042f2950229034396529749aa7ac4d25c576adba8e2b9e3a553",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.4.1",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.4.1/boardraid-0.4.1.jar"
+    },
+    {
+      "version": "0.4.2",
+      "filename": "boardraid-0.4.2.jar",
+      "size": 3215415,
+      "sha256": "5c90e0b1e04a29787ae9292db3003d529de195f717314942e923a7ec2cde4994",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.4.2",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.4.2/boardraid-0.4.2.jar"
+    },
+    {
+      "version": "0.4.3",
+      "filename": "boardraid-0.4.3.jar",
+      "size": 3215370,
+      "sha256": "c663ff2225666e7c89bbdbccd5a9253b6fc629542f0a3ab4f9e57d574484f21d",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.4.3",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.4.3/boardraid-0.4.3.jar"
+    },
+    {
+      "version": "0.4.4",
+      "filename": "boardraid-0.4.4.jar",
+      "size": 3215024,
+      "sha256": "5bc6ec529e2822db763da73696bfbf1d41df85a1fa92ccba22182c49dbf01f04",
+      "evidence": "retained-public-download-archive",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.4.4",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.4.4/boardraid-0.4.4.jar"
+    },
+    {
+      "version": "0.4.5",
+      "filename": "boardraid-0.4.5.jar",
+      "size": 3215139,
+      "sha256": "bc49ba68c77f3cb111a9d00c3262aff9d33ebeb4b8aaeec692e32df3cf9edd44",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.4.5",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.4.5/boardraid-0.4.5.jar"
+    },
+    {
+      "version": "0.4.7",
+      "filename": "boardraid-0.4.7.jar",
+      "size": 3215278,
+      "sha256": "8a8c977e4e45c9f4a4751727d3c1d5fc4d0da60296df5082e3739cffc6ecd079",
+      "evidence": "retained-public-download-archive",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.4.7",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.4.7/boardraid-0.4.7.jar"
+    },
+    {
+      "version": "0.4.8",
+      "filename": "boardraid-0.4.8.jar",
+      "size": 3217963,
+      "sha256": "1aad26ad962f479ae576265857a7cc2029724aaf5896d0aa488cd63680906d69",
+      "evidence": "retained-public-download-archive",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.4.8",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.4.8/boardraid-0.4.8.jar"
+    },
+    {
+      "version": "0.4.9",
+      "filename": "boardraid-0.4.9.jar",
+      "size": 3219802,
+      "sha256": "73e05e210573847ced87ef487683e59ec6d19b0d073c1e77785bb018c1459699",
+      "evidence": "retained-public-download-archive",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.4.9",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.4.9/boardraid-0.4.9.jar"
+    },
+    {
+      "version": "0.5.0",
+      "filename": "boardraid-0.5.0.jar",
+      "size": 13389385,
+      "sha256": "13274ce57e7f93aff94f2bf0ac3190a48e6ad79ffaad9140cb0e2ff301b8daaa",
+      "evidence": "retained-public-download-archive",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.5.0",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.5.0/boardraid-0.5.0.jar"
+    },
+    {
+      "version": "0.5.1",
+      "filename": "boardraid-0.5.1.jar",
+      "size": 13389386,
+      "sha256": "3d76999c9545232179aa1337432653e7bbcc7e88754066e9305d945015dfaae6",
+      "evidence": "retained-public-download-archive",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.5.1",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.5.1/boardraid-0.5.1.jar"
+    },
+    {
+      "version": "0.5.2",
+      "filename": "boardraid-0.5.2.jar",
+      "size": 13389438,
+      "sha256": "7bdc2101bd1526144e137720b6e5077733d033da1eac4fb8703e4f965be31006",
+      "evidence": "retained-public-download-archive",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.5.2",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.5.2/boardraid-0.5.2.jar"
+    },
+    {
+      "version": "0.5.3",
+      "filename": "boardraid-0.5.3.jar",
+      "size": 13392836,
+      "sha256": "76c50a3f27f8d72d8e464d6b52169546d7943c8935364f3acee7343acacbdee8",
+      "evidence": "retained-public-download-archive",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.5.3",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.5.3/boardraid-0.5.3.jar"
+    },
+    {
+      "version": "0.5.4",
+      "filename": "boardraid-0.5.4.jar",
+      "size": 13396462,
+      "sha256": "0757b8d1233a1be34c03e2e927229c1e12f4983a34e0d28cb25d046d56251377",
+      "evidence": "retained-public-download-archive",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.5.4",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.5.4/boardraid-0.5.4.jar"
+    },
+    {
       "version": "0.5.5",
-      "releasedAt": "2026-10-31",
-      "minecraft": "1.16.1",
-      "loader": "Fabric",
-      "downloadPage": "https://boardraid.cn/download",
-      "manifest": "https://boardraid.cn/version.json",
-      "notes": "notes/0.5.5.md"
+      "filename": "boardraid-0.5.5.jar",
+      "size": 13710061,
+      "sha256": "e73ae171f44c84eda7f69ec32566bce80492cd40adc166e7772e3c1e5b900306",
+      "evidence": "published-mirror-sha256",
+      "releaseUrl": "https://github.com/BoardraidDev/releases/releases/tag/v0.5.5",
+      "downloadUrl": "https://github.com/BoardraidDev/releases/releases/download/v0.5.5/boardraid-0.5.5.jar"
+    }
+  ],
+  "unavailable": [
+    {
+      "version": "0.1.0",
+      "reason": "No unique verified production-mapped published artifact; development or conflicting files rejected"
     }
   ]
 }
